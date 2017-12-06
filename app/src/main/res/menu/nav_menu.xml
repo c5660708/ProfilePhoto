@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tianxiezuo"
+            android:icon="@mipmap/icons8_txz"
+            android:title="tianxiezuo">
+        </item>
+        <item
+            android:id="@+id/tianchengzuo"
+            android:icon="@mipmap/icons8_tcz"
+            android:title="tianchengzuo">
+        </item>
+        <item
+            android:id="@+id/jinniuzuo"
+            android:icon="@mipmap/icons8_jnz"
+            android:title="jinniuzuo">
+        </item>
+        <item
+            android:id="@+id/chunvzuo"
+            android:icon="@mipmap/icons8_cnz"
+            android:title="chunvzuo">
+        </item>
+    </group>
+</menu>
